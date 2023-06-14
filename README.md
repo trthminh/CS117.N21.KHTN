@@ -5,7 +5,7 @@
 </p>
 
 # CS117.N21.KHTN - Computational Thinking
-## Group 6:
+## Team 02
 |**Student ID**| **Member**|**Email**|
 |-----------|-----------|-----------|
 |21520064|Truong Thanh Minh|21520064@gm.uit.edu.vn|
@@ -21,7 +21,8 @@
 - **Year**: 2022 - 2023
 - **Teacher**: Ph.D Ngo Duc Thanh
 - **Course length**: 15 weeks
-
+## About my team project
+- Name: Virtual Try-On
 ### UI
 Overview my team app
 ![Image](https://github.com/trthminh/CS117.N21.KHTN/blob/main/giao%20dien.png)
